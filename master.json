@@ -1,5 +1,71 @@
 [
+
+  { "title" : "", "type" : "movie", "medium" : "dvd", "set" : "" },
+
+
+  { "title" : "3 doors down", "type" : "movie", "medium" : "dvd" },
+  { "title" : "8 MM 2", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The 10th Kingdom", "type" : "movie", "medium" : "dvd" },
+  { "title" : "16 Blocks", "type" : "movie", "medium" : "dvd" },
+  { "title" : "102 Dalmations", "type" : "movie", "medium" : "dvd" },
+  { "title" : "21", "type" : "movie", "medium" : "dvd" },
+  { "title" : "300", "type" : "movie", "medium" : "dvd" },
+
+  { "title" : "Ace Ventura Pet Dective", "type" : "movie", "medium" : "dvd", "set" : "Ace Ventura When Natura Calls" },
+
+  { "title" : "Air Buddies", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Airplane", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Airplane 2 the sequel", "type" : "movie", "medium" : "dvd" },
+  { "title" : "All of Me", "type" : "movie", "medium" : "dvd" },
+  { "title" : "American Pie", "type" : "movie", "medium" : "dvd" },
+  { "title" : "American Pie 2", "type" : "movie", "medium" : "dvd" },
+  { "title" : "American wedding", "type" : "movie", "medium" : "dvd" },
+  { "title" : "American Pie Beneath the Crust", "type" : "movie", "medium" : "dvd" },
+  { "title" : "American Pie The Naked Mile", "type" : "movie", "medium" : "dvd" },
+  { "title" : "America's Sweethearts", "type" : "movie", "medium" : "dvd" },
+  { "title" : "An American Haunting", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Am American Werewolf in London", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Aqua Teen Hunger Force", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Are we There Yet", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Atlas Shrugged Part One", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Atlas Shrugged Part Two", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Austin Powers International Man of Mystery", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Austin Powers The Spy Who Shagged Me", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Austin Powers Goldmember", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Avengers", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Back to the Future", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Back to the Future 2", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Back to the Future 3", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Bad Grandpa", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Badder Santa", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Balls of Fury", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Barber Shop 2", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Barenaked Ladies Talk to the Hand", "type" : "movie", "medium" : "dvd" },
+  { "title" : "BatMan the Movie", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Batman and Roin", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Be Cool", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Bedazzled", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Beetlejuice", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Be Kind Rewind", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Best Man", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Better off Dead", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Beverly Hills Chihuahua", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Big", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Big Daddy", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Big Trouble in Little China", "type" : "movie", "medium" : "dvd" },
+
+
+ 
+
   { "title" : "DOOM 3" , "type" : "game/pc", "medium" : "cd-rom" , "discs" : 3 },
+
+  { "title" : "Flipper", "type" : "movie", "medium" : "dvd", "set" : "Two Brothers/Flipper" },
+
   { "title" : "Primus & The Chocolate Factory with the Fungi Ensemble" , "type" : "album" , "medium" : "cd" , "artist" : "Primus" , "released" : "20141021" },
-  { "title" : "Sim City 2000", "type" : "game/pc", "medium" : "cd-rom" }
+
+  { "title" : "Sim City 2000", "type" : "game/pc", "medium" : "cd-rom" },
+
+
+  { "title" : "Two Brothers", "type" : "movie", "medium" : "dvd", "set" : "Two Brothers/Flipper" }
+
 ]
