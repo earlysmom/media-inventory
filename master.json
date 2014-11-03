@@ -1,0 +1,5 @@
+[
+  { "title" : "DOOM 3" , "type" : "game/pc", "medium" : "cd-rom" , "discs" : 3 },
+  { "title" : "Primus & The Chocolate Factory with the Fungi Ensemble" , "type" : "album" , "medium" : "cd" , "artist" : "Primus" , "released" : "20141021" },
+  { "title" : "Sim City 2000", "type" : "game/pc", "medium" : "cd-rom" }
+]
