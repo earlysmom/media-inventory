@@ -33,6 +33,7 @@
   { "title" : "Austin Powers The Spy Who Shagged Me", "type" : "movie", "medium" : "dvd" },
   { "title" : "Austin Powers Goldmember", "type" : "movie", "medium" : "dvd" },
   { "title" : "The Avengers", "type" : "movie", "medium" : "dvd" },
+
   { "title" : "Back to the Future", "type" : "movie", "medium" : "dvd" },
   { "title" : "Back to the Future 2", "type" : "movie", "medium" : "dvd" },
   { "title" : "Back to the Future 3", "type" : "movie", "medium" : "dvd" },
@@ -66,6 +67,7 @@
   { "title" : "Bubble Boy", "type" : "movie", "medium" : "dvd" },
   { "title" : "Buckaroo Banzai", "type" : "movie", "medium" : "dvd" },
   { "title" : "Buffy The vampire Slayer", "type" : "movie", "medium" : "dvd" },
+
   { "title" : "Captain America The First Avenger", "type" : "movie", "medium" : "dvd" },
   { "title" : "Captain America The Winter Soldier", "type" : "movie", "medium" : "dvd" },
   { "title" : "Casino Royale 007", "type" : "movie", "medium" : "dvd" },
@@ -84,6 +86,7 @@
   { "title" : "Consrantine", "type" : "movie", "medium" : "dvd" },
   { "title" : "The Craft", "type" : "movie", "medium" : "dvd" },
   { "title" : "Cry Wolf", "type" : "movie", "medium" : "dvd" },
+
   { "title" : "The Dark Knight", "type" : "movie", "medium" : "dvd" },
   { "title" : "Date Movie", "type" : "movie", "medium" : "dvd" },
   { "title" : "The Davinci Code", "type" : "movie", "medium" : "dvd" },
@@ -112,6 +115,7 @@
   { "title" : "Dune", "type" : "movie", "medium" : "dvd" },
   { "title" : "Dungeons and Dragons", "type" : "movie", "medium" : "dvd" },
   { "title" : "Dylan Dog", "type" : "movie", "medium" : "dvd" },
+
   { "title" : "Eddie Murphy Raw", "type" : "movie", "medium" : "dvd" },
   { "title" : "Elektra", "type" : "movie", "medium" : "dvd" },
   { "title" : "Employee of the Month", "type" : "movie", "medium" : "dvd" },
@@ -124,6 +128,7 @@
   { "title" : "Evolution", "type" : "movie", "medium" : "dvd" },
   { "title" : "The EX", "type" : "movie", "medium" : "dvd" },
   { "title" : "The Exorcisim of Emily Rose", "type" : "movie", "medium" : "dvd" },
+
   { "title" : "Fahrenheit 451", "type" : "movie", "medium" : "dvd" },
   { "title" : "Family Guy Blue Harvest", "type" : "movie", "medium" : "dvd" },
   { "title" : "FanBoys", "type" : "movie", "medium" : "dvd" },
@@ -136,6 +141,7 @@
   { "title" : "A Fish Called Wanda", "type" : "movie", "medium" : "dvd" },
   { "title" : "Flash Gordon", "type" : "movie", "medium" : "dvd" },
   { "title" : "Flatland", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Flipper", "type" : "movie", "medium" : "dvd", "set" : "Two Brothers/Flipper" },
   { "title" : "Fluke", "type" : "movie", "medium" : "dvd" },
   { "title" : "The Fog", "type" : "movie", "medium" : "dvd" },
   { "title" : "The Forsaken", "type" : "movie", "medium" : "dvd" },
@@ -145,6 +151,7 @@
   { "title" : "From Hell", "type" : "movie", "medium" : "dvd" },
   { "title" : "Fun With Dick and Jane", "type" : "movie", "medium" : "dvd" },
   { "title" : "Fright Night", "type" : "movie", "medium" : "dvd" },
+
   { "title" : "Garfield The Movie", "type" : "movie", "medium" : "dvd" },
   { "title" : "Garfield A Tail of Two Kitties", "type" : "movie", "medium" : "dvd" },
   { "title" : "Get Him to the Greek", "type" : "movie", "medium" : "dvd" },
@@ -157,6 +164,8 @@
   { "title" : "Grandma's Boy", "type" : "movie", "medium" : "dvd" },
   { "title" : "Grimlins", "type" : "movie", "medium" : "dvd" },
   { "title" : "Grind", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Gulliver's Travels 3D", "type" : "movie", "medium" : "dvd" },
+
   { "title" : "Hancock", "type" : "movie", "medium" : "dvd" },
   { "title" : "Happy Gilmore", "type" : "movie", "medium" : "dvd" },
   { "title" : "Harold and Kumar go to White Castle", "type" : "movie", "medium" : "dvd" },
@@ -179,6 +188,7 @@
   { "title" : "House Bunny", "type" : "movie", "medium" : "dvd" },
   { "title" : "The Incredible Hulk", "type" : "movie", "medium" : "dvd" },
   { "title" : "Hush", "type" : "movie", "medium" : "dvd" },
+
   { "title" : "I Am Legend", "type" : "movie", "medium" : "dvd" },
   { "title" : "Idiocracy", "type" : "movie", "medium" : "dvd" },
   { "title" : "Idle Hands", "type" : "movie", "medium" : "dvd" },
@@ -194,6 +204,7 @@
   { "title" : "Iron Man 3", "type" : "movie", "medium" : "dvd" },
   { "title" : "the Island", "type" : "movie", "medium" : "dvd" },
   { "title" : "The Italian Job", "type" : "movie", "medium" : "dvd" },
+
   { "title" : "The Jackal", "type" : "movie", "medium" : "dvd" },
   { "title" : "Jawbreaker", "type" : "movie", "medium" : "dvd" },
   { "title" : "Jay and Silent Bob Strike Back", "type" : "movie", "medium" : "dvd" },
@@ -201,11 +212,13 @@
   { "title" : "Journey 2 The Mysterious Island", "type" : "movie", "medium" : "dvd" },
   { "title" : "Jumanji", "type" : "movie", "medium" : "dvd" },
   { "title" : "Just Friends", "type" : "movie", "medium" : "dvd" },
+
   { "title" : "The Killer inside Me", "type" : "movie", "medium" : "dvd" },
   { "title" : "Kindergarten Cop", "type" : "movie", "medium" : "dvd" },
   { "title" : "King Kong", "type" : "movie", "medium" : "dvd" },
   { "title" : "King Kong VS Godzilla", "type" : "movie", "medium" : "dvd" },
   { "title" : "Knocked Up", "type" : "movie", "medium" : "dvd" },
+
   { "title" : "Labyrinth", "type" : "movie", "medium" : "dvd" },
   { "title" : "Land of the Lost", "type" : "movie", "medium" : "dvd" },
   { "title" : "Larry the Cable Gyy Git R done", "type" : "movie", "medium" : "dvd" },
@@ -226,8 +239,10 @@
   { "title" : "Lords of Dogtown", "type" : "movie", "medium" : "dvd" },
   { "title" : "The Lost Boys", "type" : "movie", "medium" : "dvd" },
   { "title" : "Lost Boys the Thirst", "type" : "movie", "medium" : "dvd" },
+
   { "title" : "Mad Max", "type" : "movie", "medium" : "dvd" },
   { "title" : "Mad Max Beyond ThunderDome", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Major Payne", "type" : "movie", "medium" : "dvd" }, 
   { "title" : "MallRats", "type" : "movie", "medium" : "dvd" },
   { "title" : "Mama", "type" : "movie", "medium" : "dvd" },
   { "title" : "Man of the House", "type" : "movie", "medium" : "dvd" },
@@ -252,21 +267,187 @@
   { "title" : "The Muppets Take Manhattan", "type" : "movie", "medium" : "dvd" },
   { "title" : "My Super Ex Girlfriend", "type" : "movie", "medium" : "dvd" },
 
+  { "title" : "Nacho Libre", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Narnia The Lion, the Witch, and the Wardrobe", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The New Guy", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Night at the Museum", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Nim's Island", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Nim's Island A Reel Thinking Event", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Norbit", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Not Another Teen Movie", "type" : "movie", "medium" : "dvd" },
+
+  { "title" : "Ocean's Eleven", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Ocean's Twelve", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Office Space", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Once Bitten", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Orange County", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Orgazmo", "type" : "movie", "medium" : "dvd" },
+
+  { "title" : "The Pagemaster", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Paulie", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Pink Floyd The Wall", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Pink Panther", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Pirates of the Caribbean Dead Mans Chest", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Police Synchronicity Concert", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Police Every Breath You Take", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Poltergeist", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Princess Bride", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Problem Child", "type" : "movie", "medium" : "dvd", "set" : "Problem Child Tantrum Pack"},
+  { "title" : "Problen Child 2", "type" : "movie", "medium" : "dvd", "set" : "Problem Child Tantrum Pack" },
+  { "title" : "Prometheus", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Pursuit of Happyness", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Push", "type" : "movie", "medium" : "dvd" },
+
+  { "title" : "The Rainmaker", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Rat Race", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Replacement Killers", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Repo The Genetic Opera", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Reservoir Dogs Ten Years", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Rise of the planet of the Apes", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Road Trip", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Robin Hood Men in Tights", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Robo Cop", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Chris Rock Never Scared", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Rocker", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Rocky Horror Picture Show", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Romancing the Stone", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Rush Hour", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Rush Hour 3", "type" : "movie", "medium" : "dvd" },
+  { "title" : "RV", "type" : "movie", "medium" : "dvd" },
+
+
+  { "title" : "SALT", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Saving Silverman", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Saw", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Saw 2", "type" : "movie", "medium" : "dvd" },
+  { "title" : "say it Isn't So!", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Scary Movie", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Scary Movie 2", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Scary Movie 3", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Scary Movie 4", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Serenity", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Shallow Hal", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Shaun of the Dead", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Shining", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Shooter", "type" : "movie", "medium" : "dvd" },
+  { "title" : "ShowTime", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The silence of the Lambs", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Simpson's The Movie", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Sin City", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Skeleton Key", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Sky High", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Sky Captain and the World of Tomorrow", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Sleepy Hollow", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Slither", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Snare Drum Basics", "type" : "movie", "medium" : "dvd" },
+  { "title" : "So I Married An Axe Murderer", "type" : "movie", "medium" : "dvd" },
+  { "title" : "SpaceBalls", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Amzing Spiderman", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Spy Kids", "type" : "movie", "medium" : "dvd" },
+  { "title" : "StarGate", "type" : "movie", "medium" : "dvd" },
+  { "title" : "StarGate The Ark of Truth", "type" : "movie", "medium" : "dvd" },
+  { "title" : "StarGate Continuum", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Star Trek Nemesis", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Star trek", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Star Trek Into Darkness", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Stepford Wives", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Stir of echoes", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Strangers", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Stripes", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Stuart Little", "type" : "movie", "medium" : "dvd" },
   { "title" : "Stuart Little 2", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Sum Of All Fears", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Super", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Superman the Movie 1978", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Superman 2 1980", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Superman Returns", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Super Mario Bros.", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Super Size Me", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Super Troopers", "type" : "movie", "medium" : "dvd" },
+  { "title" : "S.W.A.T", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Swingers", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Wanda Sykes", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Syriana", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Talledage Nights", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Team America World Police", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Tenacious D in The Pick of Destiny", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Terminator", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Terminator 2 Judgment day", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Terminator 3 Rise of the Machines", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Terminator Salvation", "type" : "movie", "medium" : "dvd" },
+  { "title" : "This is SpinalTap", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Thor", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Thor The Dark World", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Throw Mama From the Train", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Time Bandits", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Tomb Raider", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Tomb Raider The Cradle of Life", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Top Secret!", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Tower Heist", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Transformers", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Transformers Beginnings", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Transformers Revenge of the Fallen", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Trick or Treat", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Troy", "type" : "movie", "medium" : "dvd" },
+  { "title" : "True Lies", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Twilight Zone The Movie", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Two Brothers", "type" : "movie", "medium" : "dvd", "set" : "Two Brothers/Flipper" }, 
+
+  { "title" : "UHF", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Underdog", "type" : "movie", "medium" : "dvd" },
+  { "title" : "UnderWorld Evlution", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Untoughables", "type" : "movie", "medium" : "dvd" },
+
+  { "title" : "Van Helsing", "type" : "movie", "medium" : "dvd" },
+
+  { "title" : "Wanted", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Waiting", "type" : "movie", "medium" : "dvd" },
+  { "title" : "War of the Worlds", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The WaterBoy", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Water Horse Legend of the Deep", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Weekend At Bernie's", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Weird Al Yankovic", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Welcome to Mooseport", "type" : "movie", "medium" : "dvd" },
+  { "title" : "We're the Millers", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Whipped", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Ron White", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Who Framed Roger Rabbit", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Wicker Man", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Willy Wonka and the Chocolate Factory", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Without a Paddle", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Wizard of OZ", "type" : "movie", "medium" : "dvd" },
+  { "title" : "The Wolverine", "type" : "movie", "medium" : "dvd" },
+
+  { "title" : "The X Files Fight the Future", "type" : "movie", "medium" : "dvd" },
+  { "title" : "X Men", "type" : "movie", "medium" : "dvd" },
+  { "title" : "X Men Days of Future Past" , "type" : "movie" , "medium": "blu-ray" },
+  { "title" : "X Men Untied", "type" : "movie", "medium" : "dvd" },
+  { "title" : "X Men The Last Stand", "type" : "movie", "medium" : "dvd" },
+  { "title" : "X Men First Class", "type" : "movie", "medium" : "dvd" },
+  { "title" : "X Men Origins Wolverine", "type" : "movie", "medium" : "dvd" },
+
+  { "title" : "You Don'T Mess With the Zohan", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Young Frankenstein", "type" : "movie", "medium" : "dvd" },
+  { "title" : "Yours, Mine & Ours", "type" : "movie", "medium" : "dvd" },
+
+  { "title" : "ZombieLand", "type" : "movie", "medium" : "dvd" },
+
+
+ 
+
 
 
 
 
   { "title" : "DOOM 3" , "type" : "game/pc", "medium" : "cd-rom" , "discs" : 3 },
-
-  { "title" : "Flipper", "type" : "movie", "medium" : "dvd", "set" : "Two Brothers/Flipper" },
-
   { "title" : "Primus & The Chocolate Factory with the Fungi Ensemble" , "type" : "album" , "medium" : "cd" , "artist" : "Primus" , "released" : "20141021" },
+
+
+
 
   { "title" : "Sim City 2000", "type" : "game/pc", "medium" : "cd-rom" },
 
 
-  { "title" : "Two Brothers", "type" : "movie", "medium" : "dvd", "set" : "Two Brothers/Flipper" },  
 
 
 
@@ -275,6 +456,9 @@
   { "title" : "Shrek The Third", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Shrek 3D", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Shrek Forever After", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Puss in Boots", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Puss in Boots The Three Diablos", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+
  
   { "title" : "Pokemon Giratina and the sky Warrior", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Pokemon Black and White", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
@@ -283,6 +467,12 @@
   { "title" : "Pokemon Lucario and the Mystry of Mew", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Pokemon Genesect and the Legend Awakened", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Pokemon Kyurem and the Sword of Justice", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+
+  { "title" : "Pokemon Heros The Movie", "type" : "movie", "medium" : "dvd", "set" : "Pokemon Heros ETC.", "group" : "EJ" },
+  { "title" : "Pokemon 4Ever", "type" : "movie", "medium" : "dvd", "set" : "Pokemon Heros ETC.", "group" : "EJ" },
+  { "title" : "Pokemon Destiny Deoxys", "type" : "movie", "medium" : "dvd", "set" : "Pokemon Heros ETC.", "group" : "EJ" },
+  { "title" : "Pokemon Jirachi Wish Maker", "type" : "movie", "medium" : "dvd", "set" : "Pokemon Heros ETC.", "group" : "EJ" },
+
 
   { "title" : "Happy Feet", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Happy Feet Two", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
@@ -304,6 +494,8 @@
   { "title" : "Dragons Riders of Berk Part 2", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Dragons Gift of the Night Fury", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
 
+  { "title" : "Batman Sub Zero", "type" : "movie", "medium" : "dvd", "set" : "Batman Double Feature", "group" : "EJ" },
+  { "title" : "Batman Beyond The Movie", "type" : "movie", "medium" : "dvd", "set" : "Batman Double Feature", "group" : "EJ"},
 
   { "title" : "Mad Season One Part Two", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Tiny Toon Adventures Vol. 3", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
@@ -316,14 +508,24 @@
   { "title" : "Courage the Cowardly Dog Season 2", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Courage the Cowardly Dog Season 1", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Donkey Kong Country He Came, He saw, He Kong-Qured", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Fairly Odd Parents School's Out The Musical", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Justice League The New Frontier", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Super Friends Attack of the Legion Of Doom", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Ulitmate Avengers The Movie", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+
+  { "title" : "The Rescuers", "type" : "movie", "medium" : "dvd", "set" : "2 Movie Collect", "group" : "EJ" },
+  { "title" : "The Resuuers Down Under", "type" : "movie", "medium" : "dvd", "set" : "2 Movie Collection", "group" : "EJ" },
+
   { "title" : "Adventures of Sonic The Hedgehog Tall Tails", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Open Season 2", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Open Season", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Open season 3", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+
   { "title" : "Jimmy Neutron Confusion Fusion", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Jimmy Neutron Boy Genius", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Jimmy Timmy Power Hour 2", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Jimmy Timmy Power Hour 3", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+
   { "title" : "The Wild Thornberrys Season 2", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Ratatouille", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Looney Tunes Spotlight Collection 2", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
@@ -354,7 +556,7 @@
   { "title" : "Snoopy, Come Home", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Shaun the Sheep Little Sheep of Horrors", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Dinosaur", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
-
+  { "title" : "Cartoon Crack Ups", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Flushed Away", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "The Mummy Animated Series", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "All Dogs Go to Heaven", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
@@ -383,8 +585,13 @@
   { "title" : "Toy Story", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Toy Story 2", "type" : "movie", "medium" : "dvd", "group" : "EJ"},
   { "title" : "Toy Story 3", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Beauty and the Beast", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Bambi 2", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Jetsons Microchip Chump", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
 
-
+  { "title" : "Rug Rats Go Wild", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Rug Rats Mysteries", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Rug Rats Tales from the Crib Snow White", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
 
 
   { "title" : "Garfield and Friends Vol.1", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
@@ -396,6 +603,32 @@
   { "title" : "Garfield Fantasies", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Garfield As Himself", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
 
+  { "title" : "The Land Before Time Friends Forever", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "The Land Before Time Invasion of the TinySauruses", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "The Land Before Time The Great Day of the Flyers", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "The Land Before Time The Great Longneck Migration", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "The Land Before Time Magical Discoveries", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+
+
+
+
+  { "title" : "The Land Before Time Big Freeze", "type" : "movie", "medium" : "dvd", "set" : "Dino Riffic Double Feature 8 and 9", "group" : "EJ" },
+  { "title" : "The Land Before Time Journey to Big Water", "type" : "movie", "medium" : "dvd", "set" : "Dino Riffic Double Feature 8 and 9", "group" : "EJ" },
+
+  { "title" : "The Land Before Time The Secrete of Saurus Rock", "type" : "movie", "medium" : "dvd", "set" : "Mysteries Double Feature 8 and 9", "group" : "EJ" },
+  { "title" : "The Land Before Time The Stone of Cold Fire", "type" : "movie", "medium" : "dvd", "set" : "Mysteries Double Feature 8 and 9", "group" : "EJ" },
+
+
+
+
+  { "title" : "The Land Before Time The Great Valley Adventure", "type" : "movie", "medium" : "dvd", "set" : "4 Movie Family Fun Pack", "group" : "EJ" },
+  { "title" : "The Land Before Time The Time of the Great Giving", "type" : "movie", "medium" : "dvd", "set" : "4 Movie Family Fun Pack", "group" : "EJ" },
+  { "title" : "The Land Before Time Journey Through the Mist", "type" : "movie", "medium" : "dvd", "set" : "4 Movie Family Fun Pack", "group" : "EJ" },
+  { "title" : "The Land Before Time The mysterious Island", "type" : "movie", "medium" : "dvd", "set" : "4 Movie Family Fun Pack", "group" : "EJ" },
+
+
+
+
 
   { "title" : "Animaniacs Vol.4", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Chicken Little", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
@@ -405,22 +638,45 @@
   { "title" : "Geronimo Stilton Operation Shufongfong", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "The Tick Season 1", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "The Tick Season 2", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+
+  { "title" : "Madagascar", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Madagascar Escape 2 Africa", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+
   { "title" : "The Penguins of Madagascar Operation Get Ducky", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "The Penguins of Madagascar Operation DVD Premiere", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+
   { "title" : "Batman the Animated Series Vol.1", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
 
   { "title" : "The Real Ghostbusters Vol.1", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "The Real Ghostbusters Spooky Spirits", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "The Real Ghostbusters Slimefighters", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+
+  { "title" : "Alvin and the Chipmunks Star Wreck", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Alvin and the Chipmunks Daytona Jones", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Alvin and the Chipmunks The ALVINNN!!! Edition", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+
   { "title" : "Finding Nemo", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Ice Age Continental Drift", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Ice Age", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "The Looney Tunes Show Season 1 Vol.1", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "The Looney Tunes Show There Goes The Neighborhood", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Darkwing Duck Vol.1", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
-  { "title" : "The Super Mario Super ShowDarkwing Duck Vol.2", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Darkwing Duck Vol.2", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+
+  { "title" : "The Super Mario Super Show", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "The Super Mario Bros. Super Show Mario of the Deep", "type" : "movie", "medium" : "dvd", "group" :"EJ" },
+  { "title" : "The Adventures of Super Mario Bros. 3", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Super Mario World Koopa's Stone Age Quest", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+
   { "title" : "Pinky and the Brain Vol.1", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Pinky and the Brain Vol.3", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "The Legend of Zelda Havoc in Hyrule", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
 
+  { "title" : "Rio", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Rio 2", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
 
+  { "title" : "Curious George Flies a Kite", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Curious George", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
 
   { "title" : "SpongeBob SquarePants Season 1", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "SpongeBob SquarePants Season 2", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
@@ -487,7 +743,10 @@
   { "title" : "Scooby Doo and the Witches Ghost", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Scooby Doo and the Samurai Sword", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Shaggy and Scooby Doo Get a Clue", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "The Richie Rich Scooby Doo show Vol. 1", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
 
+  { "title" : "The Lego Movie", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
+  { "title" : "Lego Adventures Clutch Powers", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
 
   { "title" : "The Magic School Bus Bugs, Bugs, Bugs", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "The Magic School Bus Catches a wave", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
