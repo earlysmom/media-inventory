@@ -435,10 +435,6 @@
 
  
 
-
-
-
-
   { "title" : "DOOM 3" , "type" : "game/pc", "medium" : "cd-rom" , "discs" : 3 },
   { "title" : "Primus & The Chocolate Factory with the Fungi Ensemble" , "type" : "album" , "medium" : "cd" , "artist" : "Primus" , "released" : "20141021" },
 
@@ -450,6 +446,82 @@
 
 
 
+  { "title" : "Angel Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Angel Season 2", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Angel Season 3", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Angel Season 4", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Angel Season 5", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Arrested Developement Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Arrested Developement Season 2", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Arrested Developement Season 3", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+
+  { "title" : "Bewitched Season 5", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "The Big Bang Theory Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "The Big Bang Theory Season 2", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "The Big Bang Theory Season 3", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "The Big Bang Theory Season 4", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "The Big Bang Theory Season 5", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "The Big Bang Theory Season 6", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "The Big Bang Theory Season 7", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Bones Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Buffy the Vampire Slayer Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Buffy the Vampire Slayer Season 2", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Buffy the Vampire Slayer Season 3", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Buffy the Vampire Slayer Season 4", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Buffy the Vampire Slayer Season 5", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Buffy the Vampire Slayer Season 6", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Buffy the Vampire Slayer Season 7", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+
+  { "title" : "Chappelle's Show Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Chappelle's Show Season 2", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Chuck Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Clerks Animated", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Cosmos A Spacetime Odyssey", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+
+  { "title" : "Dark Angel Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Dark Angel Season 2", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+
+  { "title" : "Everybody Loves Raymond Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Everybody Loves Raymond Season 6", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+
+  { "title" : "Family Guy Season 1 and 2", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Family Guy Season 3", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Family Guy Volume 3", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Family Guy Partial Terms of Endearment", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Family Guy Stewie Griffin The Untold Story", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "FireFly The Complete Series", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Freaks and Geeks The Complete Series", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "The Fresh Prince of BelAir", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Futurama Volume 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Futurama Volume 2", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Futurama Bender's Game", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+
+  { "title" : "Gilligan's Island Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Gilligan's Island Season 2", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Gilligan's Island Season 3", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Rescue From Gilligan's Island", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "The Greatest American Hero Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+
+  { "title" : "How I met your Mother Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "How I Met Your Mother season 2", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+
+  { "title" : "In Living Color Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+
+  { "title" : "Key and Peele Season 1 and 2", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "King of the Hill Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+
+  { "title" : "The League Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+
+  { "title" : "Mad TV Season 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },  
+  { "title" : "Man Show Volume 1", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Man Show Volume 2", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "Married With Children Season 1 and 2", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+  { "title" : "", "type" : "movie", "medium" : "dvd", "group" : "TV Show" },
+
+
 
   { "title" : "Shrek", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Shrek 2", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
@@ -459,7 +531,6 @@
   { "title" : "Puss in Boots", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Puss in Boots The Three Diablos", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
 
- 
   { "title" : "Pokemon Giratina and the sky Warrior", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Pokemon Black and White", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Pokemon Hang Ten Pikachu", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
@@ -593,7 +664,6 @@
   { "title" : "Rug Rats Mysteries", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Rug Rats Tales from the Crib Snow White", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
 
-
   { "title" : "Garfield and Friends Vol.1", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Garfield and Friends Vol.2", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Garfield and Friends Vol.3", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
@@ -609,26 +679,16 @@
   { "title" : "The Land Before Time The Great Longneck Migration", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "The Land Before Time Magical Discoveries", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
 
-
-
-
   { "title" : "The Land Before Time Big Freeze", "type" : "movie", "medium" : "dvd", "set" : "Dino Riffic Double Feature 8 and 9", "group" : "EJ" },
   { "title" : "The Land Before Time Journey to Big Water", "type" : "movie", "medium" : "dvd", "set" : "Dino Riffic Double Feature 8 and 9", "group" : "EJ" },
 
   { "title" : "The Land Before Time The Secrete of Saurus Rock", "type" : "movie", "medium" : "dvd", "set" : "Mysteries Double Feature 8 and 9", "group" : "EJ" },
   { "title" : "The Land Before Time The Stone of Cold Fire", "type" : "movie", "medium" : "dvd", "set" : "Mysteries Double Feature 8 and 9", "group" : "EJ" },
 
-
-
-
   { "title" : "The Land Before Time The Great Valley Adventure", "type" : "movie", "medium" : "dvd", "set" : "4 Movie Family Fun Pack", "group" : "EJ" },
   { "title" : "The Land Before Time The Time of the Great Giving", "type" : "movie", "medium" : "dvd", "set" : "4 Movie Family Fun Pack", "group" : "EJ" },
   { "title" : "The Land Before Time Journey Through the Mist", "type" : "movie", "medium" : "dvd", "set" : "4 Movie Family Fun Pack", "group" : "EJ" },
   { "title" : "The Land Before Time The mysterious Island", "type" : "movie", "medium" : "dvd", "set" : "4 Movie Family Fun Pack", "group" : "EJ" },
-
-
-
-
 
   { "title" : "Animaniacs Vol.4", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "Chicken Little", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
@@ -692,8 +752,6 @@
   { "title" : "SpongeBob SquarePants Spongicus", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "SpongeBob SquarePants The Movie", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
 
-
-
   { "title" : "A pup Named Scooby Doo Vol. 1", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "A pup Named Scooby Doo Vol. 2", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
   { "title" : "A pup Named Scooby Doo Vol. 3", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
@@ -754,15 +812,103 @@
   { "title" : "The Magic School Bus Creepy, Crawly Fun", "type" : "movie", "medium" : "dvd", "group" : "EJ" },
 
 
+  { "title" : "Garfield Holiday Celebrations", "type" : "movie", "medium" : "dvd", "group" : "Holidays" },
+
+  { "title" : "The Santa Clause", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "The Santa Clause 2", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "The Santa Clause 3 The Escape Clause", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Christmas With the Kranks", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Jingle All the Way", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Elf", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Home Alone", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Home Alone 2 Lost in New York", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Santa VS the Snowman 3D", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Elf Bowling The Movie", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Fred Claus", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Eight Crazy Nights", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Prancer", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Olive the Other Reindeer", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "How the Grinch Stole Christmas Jim Cary", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "How the Grinch Stole Christmas", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "The Polar Express", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "It's a Very Merry Muppet Christmas Movie", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "A Dennis the Menace Christmas", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "It's a SpongeBob Christmas!", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Scrooged", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Trapped in Paradise", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Edward Scissorhands", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Merry Madagascar", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Santa Buddies The Legend of Santa Paws", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Party with the Penguins", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Rudolph the Red Nosed Reindeer", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Rudolph the Red Nosed Reindeer The Island of Misfit Toys", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "A Christmas Story", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Deck the Halls", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Inspector Fadget Saves Christmas", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Bah, HumDuck! A Looney Tunes Christmas", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "A Charlie Brown Christmas", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "I Want a Dog for Christmas Charlie Brown", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "Frosty the Snowman", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "The Legend of Frosty the Snowman", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
+  { "title" : "The Pink Panther A Pink Christmas", "type" : "movie", "medium" : "dvd", "group" : "Christmas" },
 
 
+  { "title" : "A Charlie Brown Thanksgiving", "type" : "movie", "medium" : "dvd", "group" : "Thanksgiving" },
+  { "title" : "Alvin and the Chipmunks Alvin's Thanksgiving Celrbration", "type" : "movie", "medium" : "dvd", "group" : "Thanksgiving" },
 
 
+  { "title" : "Goosebumps The Ghost Next Door", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Goosebumps My Best Friend is Invisible", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Goosebumps Shocker on Shock Street", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Goosebumps Scary House", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Goosebumps It Came from Beneath the Sink", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Goosebumps Say Cheese and Die", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Goosebumps Attack of the Jack o' Lanterns", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Goosebumps Return of the Mummy", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Goosebumps Deep Trouble", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Goosebumps Perfect School", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "R.L.Stine's Haunting Hour", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "R.L.Stine's Haunting Hour  The Series", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "R.L.Stine's Mostly Ghostly", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
 
+  { "title" : "The Haunted Mansion", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "It's The Great Pumpkin Charlie Brown", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "The Adams Family Weird is Relative", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "The Adams Family Values", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Scary GodMother", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Roseanne Halloween Edition", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Monster House", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Nicktoons Halloween 6 Tales of Fright", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Cartoon Network Halloween ", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Hocus Pocus", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "SpongeBob Squarepants Halloween", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Scared Shrekless", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Pooh's Heffalump Halloween Movie", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Edgar and Ellen Trick or Twins", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Casper", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Alven and the chipmunks Trick or Treason", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Alven and the chipmunks Meet Frankenstein", "type" : "movie", "medium" : "dvd", "group" : "Halloween", "set" : "Alven and the chipmunks Scare Riffic Double Feature" },
+  { "title" : "Alven and the chipmunks Meet the Wolfman", "type" : "movie", "medium" : "dvd", "group" : "Halloween", "set" : "Alven and the chipmunks Scare Riffic Double Feature" },
+
+  { "title" : "Hotel Transylvania", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "The Nightmare Before Christmas", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+  { "title" : "Daffy Duck's Quackbusters", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+
+  { "title" : "Halloweentown", "type" : "movie", "medium" : "dvd", "group" : "Halloween", "set" : "Halloweentown Double Feature" },
+  { "title" : "Halloweentown 2 Kalabar's Revenge", "type" : "movie", "medium" : "dvd", "group" : "Halloween", "set" : "Halloweentown Double Feature" },
+  { "title" : "Return To Halloweentown", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+ 
 
   { "title" : "Bugs Bunny's Halloween Scecial", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
   { "title" : "Monsters VS Aliens Mutant Pumpkins From Outer Space", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
-  { "title" : "Fat Albert Halloween Special", "type" : "movie", "medium" : "dvd", "group" : "Halloween" }
+  { "title" : "Fat Albert Halloween Special", "type" : "movie", "medium" : "dvd", "group" : "Halloween" },
+
+
+  { "title" : "Be My Valentine, Charlie Brown", "type" : "movie", "medium" : "dvd", "group" : "Valentine" },
+
+
+  { "title" : "Peter Cottontail The Movie", "type" : "movie", "medium" : "dvd", "group" : "Easter" },
+  { "title" : "It's the Easter Beagle, Charlie Brown", "type" : "movie", "medium" : "dvd", "group" : "Easter" }
 
 
 
